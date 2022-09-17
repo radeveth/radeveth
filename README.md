@@ -3,7 +3,7 @@
 </br>
 <!-- ABOUT-ME-POST-LIST:START -->
   <h4>• 🌱 I’m currently learning everything. 🤣
-  </br>• 🥅 2022 Goals: Learn more about ASP.NET Core MVC and get my first job as a junior programmer. 🎯
+  </br>• 🥅 2022 Goals: Get my first job as a junior programmer. 🎯
   </br>• ⚡ Fun fact: I love calisthenics, powerlifting and football. 🤸‍♂️🏋‍
   </br>• 🔎 I'm interested in investing.
   </br>• 🕯 Everyday Hustler 🕯</h4>
