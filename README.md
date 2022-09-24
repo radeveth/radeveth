@@ -25,3 +25,37 @@
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calisthenicsGuy)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GITHUB-STATS-POST-LIST:END -->
+
+
+<h3 align="center">Languages and Tools:</h3>
+        <br>
+<p align="center">
+        <a href="" target="_blank">
+            <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=currentColor"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="40" height="40" />
+        </a>
+        <a href="" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="html5" width="40" height="40" />
+        </a>
+</p>
