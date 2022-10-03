@@ -46,6 +46,9 @@
             <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
                 alt="html5" width="40" height="40" />
         </a>
+        <a href="https://bg.reactjs.org/" target="_blank">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+        </a>
         <a href="" target="_blank">
             <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor"
                 alt="html5" width="40" height="40" />
