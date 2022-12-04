@@ -50,7 +50,7 @@
 
 <!-- ABOUT-ME-POST-LIST:START -->
   <div align="center">
-    <h4>• 🥅 2022 Goals: Get my first job as a junior programmer. 🎯
+    <h4>• 🥅 2022 Goal: Get my first job as a junior programmer. (in process) 🎯
     </br>• ⚡ I love calisthenics, powerlifting and football. 🤸‍♂️🏋‍
     </br>• 🔎 I'm interested in investing and crypto.
   </div>
