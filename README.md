@@ -45,18 +45,7 @@
         </a>
 </p>
 <!-- LANGUAGE_AND_TOOLS-LIST:END -->
-
-<hr />
-
-<!-- ABOUT-ME-POST-LIST:START -->
-  <div align="center">
-    <h4>• 🥅 2022 Goal: Get my first job as a junior programmer. (done) 🎯
-    </br>• ⚡ I love calisthenics, powerlifting and football. 🤸‍♂️🏋‍
-    </br>• 🔎 I'm interested in investing and crypto.
-  </div>
-<!-- ABOUT-ME-POST-LIST:END -->
   
-</br>
 <hr />
 
 
