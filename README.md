@@ -5,36 +5,37 @@
 <br>
 <p align="center">
         <a href="https://learn.microsoft.com/en-us/aspnet/overview" target="_blank">
-            <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor"
-                alt="html5" width="40" height="40" />
+            <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
+                alt="AspNetCore" width="40" height="40" />
         </a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=currentColor"
-                alt="html5" width="40" height="40" />
+            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+                alt="CSharp" width="40" height="40" />
+        </a>
+        <a href="https://angular.io/" target="_blank">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
+                alt="Angular" width="40" height="40" />
         </a>
         <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
-                alt="html5" width="40" height="40" />
+                alt="MicrosoftSQLServer" width="40" height="40" />
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
-                alt="html5" width="40" height="40" />
-        </a>
+        </br>
         <a href="https://nodejs.dev/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
-                alt="nodejs" width="40" height="40" />
+                alt="NodeJS" width="40" height="40" />
         </a>
         <a href="https://bg.reactjs.org/" target="_blank">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
         </a>
-        <br />
         <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">
-            <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor"
-                alt="html5" width="40" height="40" />
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+                alt="Bootstrap" width="40" height="40" />
         </a>
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>
+        </br>
        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" />
