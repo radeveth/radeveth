@@ -49,10 +49,7 @@
   
 <hr />
 
-
-<!-- GITHUB-STATS-POST-LIST:START -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radevdev)](https://github.com/anuraghazra/github-readme-stats)
-<!-- GITHUB-STATS-POST-LIST:END -->
+![codingPhoto](https://user-images.githubusercontent.com/111244883/228016652-8d8d2ca2-f375-4286-938e-05f3df1981c4.png)
 
 <hr />
 
