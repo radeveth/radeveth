@@ -56,6 +56,7 @@
 <!-- CONNECT-WITH-ME-POST-LIST:START -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/radoslav-radev-908a96235/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="radoslav-radev" color="white" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/radoslav-radev-908a96235/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="radoslav-radev" color="white" height="50" width="50" /></a>
+  <a href="https://twitter.com/radev_eth" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="radoslav-radev" color="white" height="50" width="50" /></a>
 </p>
 <!-- CONNECT-WITH-ME-POST-LIST:END -->
