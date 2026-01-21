@@ -1,6 +1,6 @@
 # Radev's Smart Contract Security Portfolio
 
-## ✅ Highlight Audits:
+## ✅ Highlighted Audits:
 
 <table align="center">
   <tr>
@@ -76,6 +76,8 @@ and many more...
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
+| **45** | **[Algebra Finance](https://algebra.finance/)** | **Algebra LP pool positions into ERC-721 NFTs with liquidity lock period protection** | Soon | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| 44 | [The Cabal](https://thecabal.xyz/) | Delta-neutral vault using IBC with Echelon, Cross-chain order tracking - [![Move](https://img.shields.io/badge/Move-0366d6?style=flat)](https://www.sui.io/move) | Soon | January 2026 | [SB Security](https://sbsecurity.net/) |
 | 43 | FortuneFi Contracts | Decentralized Perpetual Lottery System built on Base, Yield Generation, Chainlink VRF, NFTs | Soon | December 2025 - January 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **42** | **[Algebra Finance](https://algebra.finance/)** | - | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
 | **41** | **[Ethena Labs](https://ethena.fi/)** | **Hyperliquid Distribution - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade)** | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
