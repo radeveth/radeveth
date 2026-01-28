@@ -148,7 +148,7 @@ and many more...
 - Implemented access control, pausability, pro-rata accounting, ETH/ERC-20 flows, and fee/pledge mechanics (1e6 fixed-point).
 - Wrote full proxy stack (OZ TransparentUpgradeableProxy + ProxyAdmin), storage-slot library, and upgrade-safe init patterns.
 - Shipped Foundry deployment/upgrade/ops scripts; rigorous tests for lifecycle (offers, fills, settlement, cancels) and edge cases.
-- The [final audit](https://github.com/SB-Security/audits/blob/master/reports/private/LiquidLoot-Points-OTC-Security-Review.pdf) concluded with 3 fixed low-severity findings.
+- The [final audit](https://github.com/SB-Security/audits/blob/master/reports/LiquidLoot-Points-OTC-Security-Review.pdf) concluded with 3 fixed low-severity findings.
 
 <p></p>
 
