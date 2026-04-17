@@ -160,6 +160,9 @@ and many more...
 
 ## ⚔️ Work
 
+### Smart Contract Developer | [Strata Markets](https://strata.markets/) | 2026
+- Integrated Midas mHYPER, mM1USD and mKRALPHA strategies into Strata Protocol tranche architecture, including designing a rolling 24-hour Senior loss floor in the DYS accounting engine to replace an epoch-coupled mechanism that under-protected senior capital during short oracle intervals.
+
 ### Smart Contract Developer | [LootLiquid](https://x.com/lootliquid?lang=bg), [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | 2025
 - Designed and built [Points Market](https://x.com/LootLiquid/status/1973445460779213195): an upgradeable P2P marketplace for pre-TGE points with collateral escrow and post-TGE ERC-20 settlement.
 - Implemented access control, pausability, pro-rata accounting, ETH/ERC-20 flows, and fee/pledge mechanics (1e6 fixed-point).
