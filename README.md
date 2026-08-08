@@ -88,9 +88,10 @@ and many more...
 
 ## ⚔️ Private Smart Contract Security Reviews
 
+
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 60 | [OlympusX Contracts - Second Audit]() | Taxed ERC20, Staking, Uniswap V4 Hook, DAO Governance | [📄](https://github.com/CDSecurity/audits/blob/main/audit%20reports/OlympusX_Followup_Report.pdf) | May 2026 | [CD Security](https://cdsecurity.site/) |
+| 60 | OlympusX Contracts - Second Audit | Taxed ERC20, Staking, Uniswap V4 Hook, DAO Governance | [📄](https://github.com/CDSecurity/audits/blob/main/audit%20reports/OlympusX_Followup_Report.pdf) | May 2026 | [CD Security](https://cdsecurity.site/) |
 | **59** | **[Hydrex - Solana Relay](https://www.hydrex.fi/) - [Github](https://github.com/hydrexfi/)** | **Cross-Chain Bridge, Validator Multisig, Vault Custody** **[![Rust](https://img.shields.io/badge/Rust-dea584?style=flat)](https://www.rust-lang.org/) [![Solana](https://img.shields.io/badge/Solana-f6b26b?style=flat)](https://solana.com/)** | private | April 2026 | **[Paladin Security](https://paladinsec.co/)** |
 | **58** | **[Blackhole](https://blackhole.xyz/)** | CL Plugin & JIT Audit | private | April 2026 | [Paladin Security](https://paladinsec.co/) |
 | 57 | OlympusX Contracts | V4 Dynamic Sell-Tax Hook + Limit Orders, V3/V4 Farming, Deflationary Token Launchpad, Lido Staking** | [📄](https://github.com/CDSecurity/audits/blob/main/audit%20reports/OlympusX_Report.pdf) | April 2026 | [CD Security](https://cdsecurity.site/) |
